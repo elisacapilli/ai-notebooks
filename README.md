@@ -7,6 +7,6 @@ Il progetto prevede due scenari sulla verifica di 100 affermazioni politiche:
 
 L'obiettivo è valutare come il contributo umano possa migliorare le capacità di fact-checking dei LLM open-source.
 
-**Tecnologie utilizzate:** Python, Jupyter Notebook, Pandas, LLMs (Gemma 2B, Mistral B).
+**Tecnologie utilizzate:** Python, Jupyter Notebook, Pandas, LLMs (Gemma 2B, Mistral 7B).
 
 Questo progetto dimostra competenze in programmazione Python, gestione dati, applicazioni di AI e analisi collaborativa.
