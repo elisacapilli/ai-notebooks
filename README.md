@@ -17,15 +17,6 @@ Questo progetto dimostra competenze in programmazione Python, gestione dati, app
 ---
 
 ## Notebooks inclusi
-
-### `10_stats_Gemma.ipynb` – 10 affermazioni con Gemma
-L'obiettivo è valutare come il contributo umano possa migliorare le capacità di fact-checking dei LLM open-source.
-
-**Tecnologie utilizzate:** Python, Jupyter Notebook, Pandas, LLMs (Gemma 2B, Mistral 7B).
-
-Questo progetto dimostra competenze in programmazione Python, gestione dati, applicazioni di AI e analisi collaborativa.
-
-## Notebooks inclusi
 ### '10_stats_Gemma.ipynb' (10 Statements con Gemma)
 Seleziona 10 affermazioni a caso dal dataset e le passa al modello **Gemma 2B**.  
 
